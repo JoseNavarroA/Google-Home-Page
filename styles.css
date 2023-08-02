@@ -100,6 +100,9 @@ body{
     border-radius: 5px;
     background-color: rgba(245, 249, 252, 0.863);
 }
+.button input:hover{
+    border: 1px solid rgba(64, 66, 68, 0.185);
+}
 .offer{
     display: flex;
     align-items: center;
